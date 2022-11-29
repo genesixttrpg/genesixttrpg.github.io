@@ -21,7 +21,7 @@
 title: GeneSix
 email: mrm@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a tabletop roleplaying game aiming to capture the je ne sais quoi of a Generic TTPGS using narrative Rice.
+  This is a tabletop roleplaying game aiming to capture the je ne sais quoi of Genesys™ but with some modern sensibilities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://genesixttrpg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  genesixttrpg
